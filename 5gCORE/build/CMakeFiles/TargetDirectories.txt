@@ -1,0 +1,8 @@
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/5g_simulator.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/5g_test_single_ue.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/edit_cache.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/rebuild_cache.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/list_install_components.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/install.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/install/local.dir
+/workspaces/ChatApplicationUsingC-/5gCORE/build/CMakeFiles/install/strip.dir
